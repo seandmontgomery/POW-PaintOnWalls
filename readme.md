@@ -1,6 +1,6 @@
 ![POW](static/images/powheader.png "POW")
 
-by [Jen Brissman](https://www.linkedin.com/in/jenbrissman/) and [Sean Montgomery](https://www.linkedin.com/in/seandmontgomery/)| [brissman514@gmail.com](mailto:brissman514@gmail.com?subject=[GitHub]%20Pow) | [seandmontgomery@gmail.com](mailto:seandmontgomery@gmail.com?subject=[GitHub]%20Pow)
+by [Jen Brissman](https://www.linkedin.com/in/jenbrissman/) and [Sean Montgomery](https://www.linkedin.com/in/seandmontgomery/) | [brissman514@gmail.com](mailto:brissman514@gmail.com?subject=[GitHub]%20Pow) | [seandmontgomery@gmail.com](mailto:seandmontgomery@gmail.com?subject=[GitHub]%20Pow)
 
 ## <a name="#About"></a>What is POW? - [Demo Video](https://www.youtube.com/watch?v=alTthz7xCLs)
 POW - otherwise known as “Paint on Walls” is a communal photo sharing platform for lovers of street art.
